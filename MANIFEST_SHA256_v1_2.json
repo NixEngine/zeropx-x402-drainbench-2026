@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.2.0",
+  "release_date": "2026-11-13",
+  "zenodo_archival_doi": "10.5281/zenodo.24201802",
+  "note": "Preserves frozen v1.0 Zenodo archival files byte-for-byte while adding v1.2 strict verifiers, 256-bit salted commitments, vendored offline verifiers, and v1.2 methodology clarifications.",
+  "preserved_v1_0_zenodo_files_md5": {
+    "REPORT_02_X402_DRAINBENCH_2026_AGENTIC_WALLET_SECURITY.md": "ed3617882ea48c0517fd9d4bff925cfa",
+    "REPORT_02_X402_DRAINBENCH_2026_AGENTIC_WALLET_SECURITY.pdf": "9ace63c88574eba0baed579c5195c2ca",
+    "verify_x402_drainbench.py": "d61777e819d6d0fccfb38de1a676b5f8",
+    "x402_drainbench_2026_diagnostic_vectors.json": "326d4c247dcea3f6cfad0dd5f7b7a770",
+    "x402_drainbench_ledger.jsonl": "6af9d79b7650a115e333746cfaa733f4"
+  },
+  "files_sha256": {
+    ".gitattributes": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da",
+    ".gitignore": "6feaded4e28ea86e001a6751b4e3d960e8b7c31b9616ff9936b79297086e809b",
+    "CITATION.cff": "d28cf6db96b51309128b3326e6e1ef813575741e520831b768f97ba22620f8a3",
+    "LICENSE": "8fcd006238408066026fa2093d800c55d411cedd8a7bbdb26b2d033e8e516229",
+    "poseidon2_goldilocks/__init__.py": "c268e48b80c98e332b3bb8e5840777141def7bb9fb799313bda282846ee7e468",
+    "poseidon2_goldilocks/constants.py": "91781d3bd36d399af647aeeb4c9026e36c1a3f05dacd8140120dce2aee9d4d6c",
+    "poseidon2_goldilocks/goldilocks.py": "66c233de2e91a7f0ad7fb762d7e6e0d534ca2a739dfefda8820c9490f3259724",
+    "poseidon2_goldilocks/merkle.py": "5c4c9e3cb9e5ddfba6b3c947c98619a63d4789e114b473eb3df0c380fcef16cb",
+    "poseidon2_goldilocks/permutation.py": "8f46ac654574ec0fe5ce2b2eae01dbcfc01fd831e371a30ee02d131b1498fd93",
+    "poseidon2_goldilocks/sponge.py": "2a9d710919d3ff3ba83384263625d4e37e801f47673b03a5a83e83e753facdf4",
+    "README.md": "a773ff5fe7a32bf726f37fd0c56b4a542890f4d20d206e09c4ac6be19ee102db",
+    "receipt_chain/__init__.py": "e92a382dc790c26e1ed976a329f790eb4817b8b3a2a201bf4081ebe8083e3594",
+    "receipt_chain/cli.py": "e3f8a77bb39f822715be2135d5be8239733a0d7df07ef225d842b3688ecb587a",
+    "receipt_chain/core.py": "1bf975387629d437418cc17c7152bfdf87ed64da3076d1f1d2bdcf6e1ae735de",
+    "receipt_chain/ledger.py": "f9aa8ff89f0c26e4340f32d6a27ac8200ca66592e37e737d2683520638e7c54d",
+    "receipt_chain/seal.py": "fd34c8aa993920c0d39adb91cb5334fe9a0831343a9cce50625d01446a40731d",
+    "receipt_chain/summary.py": "dd1215ba5f734bf3e524627f60280a5d85bc1fe2915e0af7e1258ef62ea216f4",
+    "REPORT_02_X402_DRAINBENCH_2026_AGENTIC_WALLET_SECURITY.md": "8d403dbddd8d569ac1262a126dd9f68ece80661b278e4c91519b0c4ae47511f5",
+    "REPORT_02_X402_DRAINBENCH_2026_AGENTIC_WALLET_SECURITY.pdf": "9a4be962360e78a7ebcf0422106209af0da9928fb52156bb5c7ba4f87cc59879",
+    "verify_strict_v1_2.py": "ce29258b6827780207191f5b385ca124c043cd5941faa50e374616c156cbb5a2",
+    "verify_x402_drainbench.py": "d3d2eca7ff88df995ee3ec80b367c8559a776578d63bfcecaa71008eaa9737cf",
+    "x402_drainbench_2026_diagnostic_vectors.json": "21685da31a90059f424cf9185af43238b3bd09cd92dd6d87751eeda446ca7eb0",
+    "x402_drainbench_ledger.jsonl": "3b9c3d6870174660b314b7c2a6681fd60b47add83d60d5c57680f555be73c936"
+  }
+}
